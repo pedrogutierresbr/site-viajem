@@ -252,13 +252,7 @@ header nav li{
     margin: 10px;
 }
 
-/* Responsividade */
-
-/* Large desktop */
-@media (max-width: 1200px){}
-
-/* Portrait tablet to landscape and desktop */
-@media (max-width: 768px) and (max-width:979px){}
+/* Responsive behavior */
 
 /* Special to map */
 @media (max-width: 950px){
